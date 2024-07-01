@@ -1,0 +1,16 @@
+:root {
+    --bg-color: #383b40;
+    --bg-editor-color: #1c2130;
+    --border-color: #d1dbe58b;
+    --text-color: #eff2f7;
+    --primary-button-bg: #0556f3;
+    --primary-button-color: #ffffff;
+    --button-height: 30px;
+    --button-width: 90px;
+    --button-radius: 2px;
+    --button-font-size: 14px;
+    --button-font-weight: 500;
+    --header-height: 50px;
+    --set-height: 95vh; 
+    --set-top: 100vh;
+}

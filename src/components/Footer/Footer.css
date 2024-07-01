@@ -1,0 +1,22 @@
+@import '../variables.css';
+
+.Footer-row {
+    height: calc(5vh - 2px);
+    width: calc(100vw - 2px);
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    font-size: 14px;
+    line-height: calc(5vh - 2px);
+    text-align: center;
+    color: #fff;
+    background-color: var(--bg-color);
+    border: 1px solid var(--border-color);
+    user-select: none;
+}
+
+.Footer-row a {
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+}
